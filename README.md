@@ -1,3 +1,7 @@
+html {
+  background: #2D2D2D;
+}
+
 # Counting Particles
 
 
@@ -6,6 +10,6 @@
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=C3HXQqIzaPs">
-         <img src="https://img.youtube.com/vi/C3HXQqIzaPs/1.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/C3HXQqIzaPs/0.jpg" style="width:100%;">
       </a>
 </div>
