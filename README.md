@@ -1,6 +1,3 @@
-html {
-  background: #2D2D2D;
-}
 
 # Counting Particles
 
